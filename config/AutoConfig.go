@@ -9,5 +9,6 @@ import (
 func AutoConfig() *sqlx.DB {
 	DB := ContactDb.ContactDb()
 	fmt.Println("Test Git")
+	fmt.Println("123")
 	return DB
 }
