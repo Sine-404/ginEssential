@@ -3,4 +3,3 @@ mysql:
   port: 3306
   username: root
   pwd: 123456
-  test: 123
